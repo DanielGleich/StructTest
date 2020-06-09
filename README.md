@@ -1,4 +1,4 @@
-2. Schuljahr (Ausbildung als staatlich geprüfter informationstechnischer Assistent) (Aufgabe 3/4 PMC) [Unrelevant]
+#1. Schuljahr (Ausbildung als staatlich geprüfter informationstechnischer Assistent) (Aufgabe 3/4 PMC) [Unrelevant]
 
 Dieses Repository war lediglich eine Hausaufgabe und dort sollten wir uns unabhängig vom Lehrer
 mit Elementen der Programmierung auseinandersetzen. Darunter gehörten namespaces, Klassen, Structs,
